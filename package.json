@@ -2,8 +2,9 @@
   "name": "ktd-piggy-bank",
   "version": "1.0.0",
   "description": "An Alexa Skill to query the balance of Piggy Banks in Numerous",
-  "main": "piggyBank.js",
+  "main": "index.js",
   "scripts": {
+    "start": "node piggyBank.js",
     "test": "mocha"
   },
   "repository": {
@@ -20,5 +21,17 @@
   "bugs": {
     "url": "https://github.com/twarne/ktd-piggy-bank/issues"
   },
-  "homepage": "https://github.com/twarne/ktd-piggy-bank#readme"
+  "homepage": "https://github.com/twarne/ktd-piggy-bank#readme",
+  "dependencies": {
+    "config": "^1.16.0",
+    "lodash": "^3.10.1",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {
+    "config": "^1.16.0",
+    "istanbul": "^0.4.0",
+    "lodash": "^3.10.1",
+    "should": "^7.1.1",
+    "sinon": "^1.17.2"
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "intent": "GetAllowanceIntent",
+      "slots": [
+        {
+          "name": "Name",
+          "type": "LIST_OF_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "IdentifyIntent",
+      "slots": [
+        {
+          "name": "Name",
+          "type": "LIST_OF_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "ExitIntent",
+      "slots": []
+    }
+  ]
+}
