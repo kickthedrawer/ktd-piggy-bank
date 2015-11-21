@@ -1,0 +1,34 @@
+{
+    "alexa": {
+        "app_id": "amzn1.echo-sdk-ams.app.[YOUR_APP_ID_HERE]"
+    },
+    "numerous": {
+        "token": "nmrs_123456789"
+    },
+    "identities": [
+        {
+            "name": "Sally",
+            "nicknames": [
+                "Sally",
+                "Sally's",
+                "Sal",
+                "Sal's"
+            ],
+            "piggyBankId": "1234567890123456789",
+            "pronoun": "her"
+        },
+        {
+            "name": "John",
+            "nicknames": [
+                "John",
+                "John's",
+                "Johnny",
+                "Johnny's",
+                "Jack",
+                "Jack's"
+            ],
+            "piggyBankId": "9876543210987654321",
+            "pronoun": "his"
+        }
+    ]
+}

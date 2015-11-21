@@ -1,0 +1,33 @@
+GetAllowanceIntent how much is {Name} allowance
+GetAllowanceIntent how much {Name} has in his allowance
+GetAllowanceIntent how much {Name} has in her allowance
+GetAllowanceIntent how much {Name} has in his account 
+GetAllowanceIntent how much {Name} has in her account 
+GetAllowanceIntent how much {Name} has in his piggy bank 
+GetAllowanceIntent how much {Name} has in her piggy bank 
+GetAllowanceIntent how much do I have
+GetAllowanceIntent what is my allowance
+GetAllowanceIntent what is {Name} allowance
+GetAllowanceIntent how much does {Name} have in his account
+GetAllowanceIntent how much does {Name} have in her account
+GetAllowanceIntent how much does {Name} have in his allowance
+GetAllowanceIntent how much does {Name} have in her allowance
+GetAllowanceIntent how much does {Name} have in his piggy bank
+GetAllowanceIntent how much does {Name} have in her piggy bank
+GetAllowanceIntent how much money does {Name} have in his account
+GetAllowanceIntent how much money does {Name} have in her account
+GetAllowanceIntent how much money does {Name} have in his allowance
+GetAllowanceIntent how much money does {Name} have in her allowance
+GetAllowanceIntent how much money does {Name} have in his piggy bank 
+GetAllowanceIntent how much money does {Name} have in her piggy bank 
+
+IdentifyIntent {Name}
+IdentifyIntent My name is {Name}
+IdentifyIntent I'm {Name}
+IdentifyIntent It's {Name}
+
+ExitIntent forget it
+ExitIntent never mind
+ExitIntent whatever
+ExitIntent oh whatever
+ExitIntent oh never mind
